@@ -1,3 +1,6 @@
+"""Reescribe el programa del cálculo del salario para darle al empleado
+1.5 veces la tarifa horaria para todas las horas trabajadas que excedan de 40."""
+
 Horas = float(input("Introduzca el numero de horas trabajadas: "))
 Tarifa = float(input("Introduzca la tarifa: "))
 
